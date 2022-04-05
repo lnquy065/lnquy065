@@ -46,11 +46,11 @@
 
 ### Blog Posts
 <!--START_SECTION:feed-->
-#### [react-katar - Create random avatars from user IDs](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
-#### [Super Language Editor - Edit multiple language files at the same time](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
-#### [inquirer-interrupted-prompt - Turning into interrupted prompts](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
-#### [ML8511 UV sensor library](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
-#### [Optical dust sensor library](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
+- [react-katar - Create random avatars from user IDs](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
+- [Super Language Editor - Edit multiple language files at the same time](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
+- [inquirer-interrupted-prompt - Turning into interrupted prompts](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
+- [ML8511 UV sensor library](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
+- [Optical dust sensor library](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;undefined)
 <!--END_SECTION:feed-->
 
 ### Feel free to contact me by:
