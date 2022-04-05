@@ -44,6 +44,10 @@
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 
+### Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 ### Feel free to contact me by:
 
 📧: lnquy065@gmail.com
