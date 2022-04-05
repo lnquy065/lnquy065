@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![lnquy065's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnquy065)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **lnquy065/lnquy065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
