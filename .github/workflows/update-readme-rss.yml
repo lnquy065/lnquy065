@@ -4,7 +4,7 @@ on:
     # Once a day at 8 AM
     - cron: 0 8 * * *
   push:
-    branches: [ master ]
+    branches: [ main ]
   workflow_dispatch:
   
 
@@ -16,4 +16,4 @@ jobs:
         with:
           feed-url: https://quyln.com/rss.xml
           readme-section: feed
-          template: "#### [{{ title }}]({{ link }}) \n"
+          template: "- [{{ title }}]({{ link }}) \n"
