@@ -18,3 +18,4 @@ jobs:
           feed-url: https://quyln.com/rss.xml
           readme-section: feed
           template: "- [{{ title }}]({{ link }}) \n"
+          branch: main
