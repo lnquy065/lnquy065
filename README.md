@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Quy Luong `/wē/`
+### Hi there 👋, I'm Quy Luong `/we/`
 
 [![lnquy065's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnquy065&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
