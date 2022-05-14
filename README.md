@@ -66,6 +66,10 @@
 - SCM: 
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 
+- IoTs:
+<a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" alt="Arduino" width="21px" height="21px"></a>
+<a href="https://www.espressif.com/" title="Espressif"><img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" alt="Espressif" width="21px" height="21px"></a>
+
 ### Blog Posts
 <!--START_SECTION:feed-->
 - [Virtual piano - Piano emulator](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;virtual-piano---piano-emulator-27x8t)
