@@ -72,11 +72,11 @@
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+- [PGC và Một điều là mãi mãi](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;pgc-va-mot-dieu-la-mai-mai-ojb318)
 - [Virtual piano - Piano emulator](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;virtual-piano---piano-emulator-27x8t)
 - [react-katar - Create random avatars from user IDs](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;react-katar---create-random-avatars-from-user-ids-lh729s)
 - [Super Language Editor - Edit multiple language files at the same time](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;super-language-editor---edit-multiple-language-files-at-the-same-time-6j8w5s)
 - [inquirer-interrupted-prompt - Turning into interrupted prompts](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;inquirer-interrupted-prompt---turning-any-existing-and-its-plugin-prompts-into-interrupted-prompts-n77u78)
-- [ML8511 UV sensor library](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;ml8511-uv-sensor-library-k7240v)
 <!--END_SECTION:feed-->
 
 ### Feel free to contact me by:
