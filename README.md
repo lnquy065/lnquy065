@@ -79,6 +79,10 @@
 - [Super Language Editor - Edit multiple language files at the same time](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;super-language-editor---edit-multiple-language-files-at-the-same-time-6j8w5s)
 <!--END_SECTION:feed-->
 
+### Dev.to articles
+
+[![lnquy065's GitHub stats](https://github-readme-devto.herokuapp.com?username=lnquy065&textColor=58a6ff&fontSize=16&width=1000)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Feel free to contact me by:
 
 📧: lnquy065@gmail.com
