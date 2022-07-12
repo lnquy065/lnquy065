@@ -81,7 +81,7 @@
 
 ### Dev.to articles
 
-[![lnquy065's GitHub stats](https://github-readme-devto.herokuapp.com?username=lnquy065&textColor=58a6ff&fontSize=16&width=1000)](https://dev.to/lnquy065)
+[![lnquy065's GitHub stats](https://github-readme-devto.herokuapp.com?username=lnquy065&textColor=58a6ff&fontSize=16&width=550)](https://dev.to/lnquy065)
 
 ### Feel free to contact me by:
 
