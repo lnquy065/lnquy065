@@ -1,6 +1,11 @@
-### Hi there 👋, I'm Quy Luong `/wee/`
 
+<p align="center">
+  <img width="160px" src="https://raw.githubusercontent.com/lnquy065/lnquy065/main/ql-bg.png" />
+</p>
 
+<p align="center">
+  <h1 align="center">Hi there 👋, I'm Quy Luong `/wee/`</h1>
+</p>
 
 🔭 I am currently working as a full stack web developer.
 
@@ -10,10 +15,7 @@
 
 🔬 I'm learning about Solidity, Web3
 
-<p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=lnquy065&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnquy065&layout=compact&hide_border=true" />
-</p>
+---
 
 ### My tech stack:
 <div align="center">
@@ -55,7 +57,6 @@
 <a title="Jira"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jira.svg" alt="Espressif" width="32px" height="32px"></a>
 </div>
 
-
 ### Blog Posts
 <!--START_SECTION:feed-->
 - [Function is an Object?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;function-is-an-object-50lxkg)
@@ -65,7 +66,7 @@
 - [Super Language Editor - Edit multiple language files at the same time](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;super-language-editor---edit-multiple-language-files-at-the-same-time-6j8w5s)
 <!--END_SECTION:feed-->
 
-### Dev.to articles
+### Dev.to posts
 
 [![lnquy065's GitHub stats](https://github-readme-devto.herokuapp.com?username=lnquy065&textColor=58a6ff&fontSize=16&width=550)](https://dev.to/lnquy065)
 
@@ -78,3 +79,8 @@
 🌐: https://quyln.com
 
 <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width="16px" height="16px">: https://www.linkedin.com/in/lnquy065
+
+<p align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=lnquy065&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnquy065&layout=compact&hide_border=true" />
+</p>
