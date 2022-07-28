@@ -60,10 +60,10 @@
 ### Blog Posts
 <!--START_SECTION:feed-->
 - [Function is an Object?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;function-is-an-object-50lxkg)
-- [PGC và Một điều là mãi mãi](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;pgc-va-mot-dieu-la-mai-mai-ojb318)
-- [Virtual piano - Piano emulator](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;virtual-piano---piano-emulator-27x8t)
+- [Bootstrap responsive column system in styled-components](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;bootstrap-responsive-column-system-in-styled-components-v1lcf3)
+- [Why we need to use &quot;bind&quot; in React component?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;why-we-need-to-use-bind-in-react-component-ubw35)
 - [react-katar - Create random avatars from user IDs](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;react-katar---create-random-avatars-from-user-ids-lh729s)
-- [Super Language Editor - Edit multiple language files at the same time](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;super-language-editor---edit-multiple-language-files-at-the-same-time-6j8w5s)
+- [inquirer-interrupted-prompt - Turning into interrupted prompts](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;inquirer-interrupted-prompt---turning-any-existing-and-its-plugin-prompts-into-interrupted-prompts-n77u78)
 <!--END_SECTION:feed-->
 
 ### Dev.to posts
