@@ -1,10 +1,16 @@
 
 <p align="center">
   <img width="160px" src="https://raw.githubusercontent.com/lnquy065/lnquy065/main/ql-bg.png" />
+  <div  align="center">
+   <a target="_blank" href="https://quyln.com">https://quyln.com</a>
+  </div>
+ 
 </p>
 
 <p align="center">
   <h1 align="center">Hi there 👋, I'm Quy Luong `/wee/`</h1>
+  
+
 </p>
 
 🔭 I am currently working as a full stack web developer.
