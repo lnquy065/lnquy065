@@ -65,11 +65,11 @@
 
 ### Blog Posts
 <!--START_SECTION:feed-->
-- [Function is an Object?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;function-is-an-object-50lxkg)
+- [[JsDrunk] Why &quot;2&quot; &gt; &quot;12&quot; &#x3D;&#x3D; true?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;jsdrunk-why-2--12--true-4e2djj)
+- [[JsDrunk] Function is an Object?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;function-is-an-object-50lxkg)
 - [Bootstrap responsive column system in styled-components](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;bootstrap-responsive-column-system-in-styled-components-v1lcf3)
 - [Why we need to use &quot;bind&quot; in React component?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;why-we-need-to-use-bind-in-react-component-ubw35)
 - [react-katar - Create random avatars from user IDs](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;react-katar---create-random-avatars-from-user-ids-lh729s)
-- [inquirer-interrupted-prompt - Turning into interrupted prompts](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;inquirer-interrupted-prompt---turning-any-existing-and-its-plugin-prompts-into-interrupted-prompts-n77u78)
 <!--END_SECTION:feed-->
 
 ### Dev.to posts
