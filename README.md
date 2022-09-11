@@ -90,3 +90,7 @@
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=lnquy065&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnquy065&layout=compact&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lnquy065/lnquy065/output/github-snake.svg"/>
+</p>
