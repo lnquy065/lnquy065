@@ -33,14 +33,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
           
-      # Push the changes
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
-        force: true
-          
     # push the content of <build_dir> to a branch
     # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
     - name: push github-contribution-grid-snake.svg to the output branch
