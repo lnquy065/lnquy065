@@ -38,7 +38,7 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        branch: main
         force: true
           
     # push the content of <build_dir> to a branch
