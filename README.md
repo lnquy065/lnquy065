@@ -12,8 +12,24 @@
 <p align="center">
   <h1 align="center">Hi there 👋, I'm Quy 🤘!</h1>
   
-
+  <p align="center">
+  
+   <a target="_blank" href="https://www.npmjs.com/~lnquy065">
+    <img  src="https://img.shields.io/badge/NPM-0A0A0A.svg?style=for-the-badge&logo=npm&logoColor=white" />
+   </a>
+   
+   <a target="_blank" href="https://quyln.com">
+    <img  src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=vercel" />
+   </a>
+   
+   <a target="_blank" href="https://dev.to/lnquy065">
+    <img  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+   </a>
+ 
 </p>
+</p>
+
+
 
 🔭 I am currently working as a full stack web developer.
 
