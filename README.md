@@ -90,10 +90,6 @@
 - [Why we need to use &quot;bind&quot; in React component?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;why-we-need-to-use-bind-in-react-component-ubw35)
 <!--END_SECTION:feed-->
 
-### Dev.to posts
-
-[![lnquy065's GitHub stats](https://github-readme-devto.herokuapp.com?username=lnquy065&textColor=58a6ff&fontSize=16&width=550)](https://dev.to/lnquy065)
-
 ### Feel free to contact me by:
 
 📧: lnquy065@gmail.com
