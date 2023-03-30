@@ -72,7 +72,6 @@
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="32px" height="32px"></a>
 <a href="https://vercel.com/" title="Vercel"><img src="https://github.com/get-icon/geticon/raw/master/icons/vercel.svg" alt="Vercel" width="32px" height="32px"></a>
 <a href="https://www.heroku.com/" title="Heroku"><img src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" alt="Heroku" width="32px" height="32px"></a>
-<a href="https://webpack.js.org/" title="Webpack"><img src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" alt="Webpack" width="32px" height="32px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="32px" height="32px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="32px" height="32px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
