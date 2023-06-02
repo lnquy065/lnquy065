@@ -37,7 +37,6 @@
 
 📫 I also enjoy blogging about a variety of topics from time to time.
 
-🔬 I'm learning about Solidity, Web3
 
 ---
 
