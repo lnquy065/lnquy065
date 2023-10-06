@@ -43,8 +43,8 @@ I'm fond of working in a product-first approach, when a product is released, mor
 
 ### Blog Posts
 <!--START_SECTION:feed-->
+- [[Tutorial] Automatic synchronization StrapiCMS&#39;s stages with Husky](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;strapicms-automatic-synchronization-with-husky-toxlqh)
 - [[Tutorial] Adding SSL to Ubuntu web server](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;tutorial-adding-ssl-to-linux-web-server-gvbhr4)
-- [[StrapiCMS] Automatic synchronization with Husky](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;strapicms-automatic-synchronization-with-husky-toxlqh)
 - [[JsDrunk] Why &quot;2&quot; &gt; &quot;12&quot; &#x3D;&#x3D; true?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;jsdrunk-why-2--12--true-4e2djj)
 - [[JsDrunk] Function is an Object?](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;function-is-an-object-50lxkg)
 - [Bootstrap responsive column system in styled-components](https:&#x2F;&#x2F;quyln.com&#x2F;article&#x2F;bootstrap-responsive-column-system-in-styled-components-v1lcf3)
