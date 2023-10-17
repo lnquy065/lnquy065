@@ -61,8 +61,8 @@ I'm fond of working in a product-first approach, when a product is released, mor
 <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width="16px" height="16px">: https://www.linkedin.com/in/lnquy065
 
 <p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=lnquy065&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnquy065&layout=compact&hide_border=true" />
+  <img height="165px" src="https://github-readme-stats-rho-black-99.vercel.app/api?username=lnquy065&show_icons=true">
+  <img src="https://github-readme-stats-rho-black-99.vercel.app/api/top-langs/?username=lnquy065&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
