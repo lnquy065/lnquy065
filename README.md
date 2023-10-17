@@ -37,7 +37,7 @@
 
 📫 I also enjoy blogging about various topics from time to time.
 
-I'm fond of working in a product-first approach, when a product is released, more people will be helped. I have a few years of experience with Java, Node.js, React (JS & TS & NextJs), databases, and clouds also. However, I don't let myself be bound by those things, with hard work and perseverance, we can get started with any framework. (That's why I don't list too many skills here).
+I'm fond of creating products, I believe when a product is released, more problems will be resolved. I have a few years of experience with Java, Node.js, React (JS & TS & NextJs), databases, and clouds also. However, I don't let myself be bound by those things, with hard work and perseverance, I'm sure that we can get started with any framework.
 
 ---
 
