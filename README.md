@@ -31,11 +31,11 @@
 
 
 
-🔭 I am currently working as a full-stack web developer.
+🔭 I'm working as a Software Engineer.
 
 🌱 I love creating tools and libraries to support my work and the community.
 
-📫 I also enjoy blogging about various topics from time to time.
+📫 I also enjoy blogging about various topics. (Can take a look at: https://quyln.com)
 
 I'm fond of creating products, I believe when a product is released, more problems will be resolved. I have a few years of experience with Java, Node.js, React (JS & TS & NextJs), databases, and clouds also. However, I don't let myself be bound by those things, with hard work and perseverance, I'm sure that we can get started with any framework.
 
